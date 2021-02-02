@@ -1,2 +1,4 @@
 name: Kristine Y Ma, PhD Graduate Student
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
